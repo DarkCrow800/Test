@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "TEST1",
+      "sources": [
+        "https://pride.place/template.png"
+      ],
+      "x": -868,
+      "y": 404
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
